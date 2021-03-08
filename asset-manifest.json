@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/advice-app/static/css/main.94b7fda6.chunk.css",
+    "main.js": "/advice-app/static/js/main.b4cba08f.chunk.js",
+    "main.js.map": "/advice-app/static/js/main.b4cba08f.chunk.js.map",
+    "runtime-main.js": "/advice-app/static/js/runtime-main.f8d6a5c5.js",
+    "runtime-main.js.map": "/advice-app/static/js/runtime-main.f8d6a5c5.js.map",
+    "static/js/2.fdd2c2ab.chunk.js": "/advice-app/static/js/2.fdd2c2ab.chunk.js",
+    "static/js/2.fdd2c2ab.chunk.js.map": "/advice-app/static/js/2.fdd2c2ab.chunk.js.map",
+    "index.html": "/advice-app/index.html",
+    "static/css/main.94b7fda6.chunk.css.map": "/advice-app/static/css/main.94b7fda6.chunk.css.map",
+    "static/js/2.fdd2c2ab.chunk.js.LICENSE.txt": "/advice-app/static/js/2.fdd2c2ab.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/advice-app/static/media/omageee.6f51517b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f8d6a5c5.js",
+    "static/js/2.fdd2c2ab.chunk.js",
+    "static/css/main.94b7fda6.chunk.css",
+    "static/js/main.b4cba08f.chunk.js"
+  ]
+}
